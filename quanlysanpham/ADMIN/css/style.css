@@ -1,0 +1,26 @@
+.clear{
+    clear: both;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.wrapper{
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+ul.admin_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+}
+li.admin_list_li {
+    float: left;
+    padding: 5px;
+    width: auto;
+    height: 50px;
+}
